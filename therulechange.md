@@ -5,7 +5,7 @@
 
 I opened Facebook and made a new page, my friend Beth messaged me, asking what I was doing. Beth’s one of my online friends. She has pink hair, blue eyes, soft no-tag clothing, a fluff ball lanyard and headphones. She calls it her out-and-about look.
 
-“I’m going to make a change to the refugee rule,” I replied. “AYC1!?” she hastefully replied. “Mmmmmmaybe a bit!” I joked. “Not without my help you aren’t!”. I knew she would jump on board fast. She agreed to make the art for my campaign, especially because she’s great at drawing. I invited all my friends to like my page. Over the course of a week, we had around 2.6k likes, follows and shares.
+“I’m going to make a change to the refugee rule,” I replied. “AYC<sup>1</sup>!?” she hastefully replied. “Mmmmmmaybe a bit!” I joked. “Not without my help you aren’t!”. I knew she would jump on board fast. She agreed to make the art for my campaign, especially because she’s great at drawing. I invited all my friends to like my page. Over the course of a week, we had around 2.6k likes, follows and shares.
 
 But then at 5 o’clock on a Saturday morning, I got an email from the PM.
 ```
@@ -22,3 +22,5 @@ Can’t wait!
 ~Harry
 ```
 ## To be continued...
+__           __
+<sup>1</sup> Are you crazy
