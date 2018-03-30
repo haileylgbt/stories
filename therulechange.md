@@ -22,5 +22,4 @@ Can’t wait!
 ~Harry
 ```
 ## To be continued...
-__           __
-<sup>1</sup> Are you crazy
+<sup>1</sup>Are you crazy
